@@ -1,0 +1,82 @@
+filters:
+  and:
+    - file.folder == "Job Applications"
+views:
+  - type: table
+    name: All Roles
+    order:
+      - status
+      - Company
+      - Role
+      - file.name
+      - listing
+      - resume
+      - cover_letter
+      - file.mtime
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.status: 80
+      note.role: 280
+      file.name: 120
+      note.listing: 96
+      note.resume: 104
+      note.cover_letter: 114
+      file.mtime: 199
+      file.ctime: 201
+  - type: table
+    name: Open Roles
+    filters:
+      and:
+        - status == "Open"
+    order:
+      - status
+      - Company
+      - Role
+      - file.name
+      - listing
+      - resume
+      - cover_letter
+      - file.mtime
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.status: 80
+      note.role: 280
+      file.name: 120
+      note.listing: 96
+      note.resume: 104
+      note.cover_letter: 114
+      file.mtime: 199
+      file.ctime: 201
+  - type: table
+    name: Closed Roles
+    filters:
+      and:
+        - status == "Closed"
+    order:
+      - status
+      - Company
+      - Role
+      - file.name
+      - listing
+      - resume
+      - cover_letter
+      - file.mtime
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.status: 80
+      note.role: 280
+      file.name: 120
+      note.listing: 96
+      note.resume: 104
+      note.cover_letter: 114
+      file.mtime: 199
+      file.ctime: 201

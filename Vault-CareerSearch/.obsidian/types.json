@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "job_listing": "multitext",
+    "created": "date",
+    "close_date": "date",
+    "offer_date": "date",
+    "first_interview": "date",
+    "second_interview": "date",
+    "recruiter_call": "date",
+    "listing": "multitext",
+    "resume": "multitext",
+    "cover_letter": "text"
+  }
+}
