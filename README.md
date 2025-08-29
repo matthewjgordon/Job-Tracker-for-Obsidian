@@ -1,5 +1,3 @@
-![Vault Screenshot](./vault-screenshot.png)
-
 # Job Tracker for Obsidian
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -7,6 +5,8 @@
 [![Demo](https://img.shields.io/badge/Demo-View-lightblue)](#demo)
 
 This template vault streamlines your job search by combining Obsidian’s Web Clipper and Templater plugins. Clip LinkedIn job listings directly into your vault, automatically generate application records, and track key details and documents in one place.
+
+![Vault Screenshot](./vault-screenshot.png)
 
 ## Requirements
 - [Obsidian](https://obsidian.md/) (v1.9.10+ recommended)  
@@ -35,7 +35,7 @@ Inside `Vault-CareerSearch/` you’ll find:
 - **Attachments** – images or supporting files referenced in notes.  
 
 ## Demo
-![Vault Demo](vault-demo.gif)
+![Vault Demo](./vault-demo-v2.gif)
 
 ## License
 This vault is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
