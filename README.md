@@ -1,3 +1,5 @@
+![Vault Screenshot](./vault-screenshot.png)
+
 # Job Tracker for Obsidian
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
