@@ -19,13 +19,12 @@ views:
         direction: DESC
     columnSize:
       note.status: 80
-      note.role: 280
-      file.name: 120
-      note.listing: 96
-      note.resume: 104
-      note.cover_letter: 114
-      file.mtime: 199
-      file.ctime: 201
+      note.company: 183
+      note.role: 252
+      file.name: 141
+      note.listing: 106
+      note.resume: 179
+      note.cover_letter: 155
   - type: table
     name: Open Roles
     filters:

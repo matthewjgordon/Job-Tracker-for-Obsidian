@@ -31,8 +31,8 @@ function q(s) { return JSON.stringify(s); } // safe YAML double-quoted scalar
 
 function buildYaml(company, role, today) {
   const listingTitle = `${company} - ${role} (Listing)`;
-  const resumeTitle  = `Resume - Matthew Gordon - ${company} ${role}`;
-  const coverTitle   = `Cover Letter - Matthew Gordon - ${company} ${role}`;
+  const resumeTitle  = `Resume - User Name - ${company} ${role}.pdf`;
+  const coverTitle   = `Cover Letter - User Name - ${company} ${role}.pdf`;
 
   return `---
 type: App
@@ -41,8 +41,8 @@ created: ${today}
 company: ${company}
 role: ${role}
 listing: ${q(`[[${listingTitle}]]`)}
-resume: ${q(`[[${resumeTitle}]]`)}
-cover_letter: ${q(`[[${coverTitle}]]`)}
+resume: "${`[[${resumeTitle}]]`}"
+cover_letter: "${`[[${coverTitle}]]`}"
 recruiter_call:
 first_interview:
 second_interview:

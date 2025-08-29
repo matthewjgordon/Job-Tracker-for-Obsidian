@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "ef799a6345608e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d8997be2441e1f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2ccbd935afd4daf",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Career Search.base",
+                "viewName": "All Roles"
+              },
+              "icon": "lucide-table",
+              "title": "Career Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c8f4c3d15f4d277",
+    "type": "split",
+    "children": [
+      {
+        "id": "d418d7925acd462c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e8c112064b098e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f3324447c5b569a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f729abf596c57c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3eacdb4b5b757b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c6f08439dea6d2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af6ca84fb52c5e2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Job Applications/2025-08-01 0912 AM - Coral Coast Shipping - Junior Dockside Operations Analyst (App).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-08-01 0912 AM - Coral Coast Shipping - Junior Dockside Operations Analyst (App)"
+            }
+          },
+          {
+            "id": "1958bef91634050e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Job Applications/2025-08-01 0912 AM - Coral Coast Shipping - Junior Dockside Operations Analyst (App).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-08-01 0912 AM - Coral Coast Shipping - Junior Dockside Operations Analyst (App)"
+            }
+          },
+          {
+            "id": "3684e82403718328",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98558e7117e92d3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Job Applications/2025-08-01 0912 AM - Coral Coast Shipping - Junior Dockside Operations Analyst (App).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-08-01 0912 AM - Coral Coast Shipping - Junior Dockside Operations Analyst (App)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b2ccbd935afd4daf",
+  "lastOpenFiles": [
+    "Job Applications/Wolfgang Puck - Pastry Chef (App).md",
+    "Job Listings/Wolfgang Puck - Pastry Chef (Listing).md",
+    "Career Search.base",
+    "Cover Letter - User Name - Wolfgang Puck Pastry Chef.pdf",
+    "Resume - User Name - Wolfgang Puck Pastry Chef.pdf",
+    "Attachments/Cover Letter - User Name - Wolfgang Puck Pastry Chef.pdf",
+    "Attachments/Resume - User Name - Wolfgang Puck Pastry Chef.pdf",
+    "Vault Documentation/Instructions.md",
+    "Resume - User Name - Wolfgang Puck Pastry Chef.md",
+    "Templates/template - startup-listing-to-app.md",
+    "Cover Letter - User Name - Wolfgang Puck Pastry Chef.md",
+    "Job Applications/Blue Horizon Hotels - Guest Happiness Coordinator (App).md",
+    "Attachments/Resume - User Name - Coral Coast Shipping Junior Dockside Operations Analyst.pdf",
+    "Job Applications/Coral Coast Shipping - Junior Dockside Operations Analyst (App).md",
+    "Attachments/Cover Letter - User Name - Barnstorm Brewery Foam Consistency Specialist.pdf",
+    "Wolfgang Puck - Pastry Chef (App).md",
+    "Vault Documentation/Schema - Obsidian Web Clipper.md",
+    "Vault Documentation/Web Clipper JSON.md",
+    "Attachments/Resume - User Name - Cinderblock Architecture Junior Concrete Visionary.pdf",
+    "Job Applications/Cinderblock Architecture - Junior Concrete Visionary (App).md",
+    "Untitled.md",
+    "newnote.md"
+  ]
+}
